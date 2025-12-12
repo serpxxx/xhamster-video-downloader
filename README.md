@@ -1,12 +1,12 @@
 # xhamster-video-downloader
 
-This repository is being set up. README will be auto-generated soon.
-
 ## Links
 - [Product Page](https://serp.ly/xham-downloader)
 - [GitHub Pages](https://serpapps.github.io/xhamster-video-downloader)
 
 ---
+
+<details>
 
 # XHamster Video Download Research: Technical Analysis of Stream Patterns, CDNs, and Download Methods
 
@@ -1518,3 +1518,6 @@ The methodologies and tools documented in this research provide a robust foundat
 **Last Updated**: September 2024  
 **Research Version**: 1.0  
 **Next Review**: December 2024
+
+
+</details>
