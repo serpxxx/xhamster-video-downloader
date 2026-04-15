@@ -121,7 +121,7 @@ Start here: [https://serp.ly/xhamster-video-downloader](https://serp.ly/xhamster
 
 ## Installation Instructions
 
-1. Open the latest release page: [GitHub Releases](https://github.com/serpapps/xhamster-video-downloader/releases/latest)
+1. Open the latest release page: [GitHub Releases](https://github.com/serpxxx/xhamster-video-downloader/releases/latest)
 2. Download the correct build for your browser.
 3. Install the extension.
 4. Open an XHamster watch page.
