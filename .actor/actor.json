@@ -1,0 +1,10 @@
+{
+  "actorSpecification": 1,
+  "buildTag": "latest",
+  "description": "Download videos from XHamster in MP4 format for offline viewing. This browser extension works on XHamster.com and all regional domains, automatically detecting videos and showing available quality options.\n\nSelect your preferred resolution and save videos directly to your computer. The extension filters out duplicate quality options and provides clear progress indicators during downloads. Build your offline collection without dealing with ads or pop-ups.\n\nAll processing is done locally in your browser. Compatible with Chrome, Edge, Firefox, Brave, and Opera.",
+  "input": "./INPUT_SCHEMA.json",
+  "name": "xhamster-video-downloader",
+  "readme": "../ACTOR.md",
+  "title": "XHamster Downloader",
+  "version": "0.0"
+}
