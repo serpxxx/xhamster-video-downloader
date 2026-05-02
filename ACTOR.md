@@ -13,6 +13,11 @@ XHamster Downloader is a browser extension built for users who want a cleaner wa
 - Export MP4 files for offline playback and archiving
 - Avoid manual source digging in page scripts
 - Keep the whole workflow browser-native
+
+## Get it Here
+
+Get it here: https://serp.ly/xhamster-video-downloader
+
 ## Table of Contents
 
 - [Why XHamster Downloader](#why-xhamster-downloader)
