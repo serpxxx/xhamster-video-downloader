@@ -1,4 +1,4 @@
-# XHamster Downloader
+# XHamster Video Downloader | How to Download XHamster Videos
 
 > Download supported XHamster videos as MP4 files directly from watch pages in your browser.
 
