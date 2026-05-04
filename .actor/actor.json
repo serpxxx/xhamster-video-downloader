@@ -5,6 +5,6 @@
   "input": "./INPUT_SCHEMA.json",
   "name": "xhamster-video-downloader",
   "readme": "../ACTOR.md",
-  "title": "XHamster Downloader",
+  "title": "XHamster Video Downloader | How to Download XHamster Videos",
   "version": "0.0"
 }
