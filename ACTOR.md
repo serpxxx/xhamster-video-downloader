@@ -2,9 +2,11 @@
 
 > Download supported XHamster videos as MP4 files directly from watch pages in your browser.
 
-## Links
+## Get it Here
 
 Get it here: https://serp.ly/xhamster-video-downloader
+
+![XHamster Downloader](https://raw.githubusercontent.com/serpxxx/xhamster-video-downloader/main/assets/workflow-preview.webp)
 
 XHamster Downloader is a browser extension built for users who want a cleaner way to save supported XHamster videos for offline viewing. It detects the active media source on the page, surfaces available quality options when present, and exports the final file as MP4 without requiring manual stream extraction.
 
@@ -13,11 +15,6 @@ XHamster Downloader is a browser extension built for users who want a cleaner wa
 - Export MP4 files for offline playback and archiving
 - Avoid manual source digging in page scripts
 - Keep the whole workflow browser-native
-
-## Get it Here
-
-Get it here: https://serp.ly/xhamster-video-downloader
-
 ## Table of Contents
 
 - [Why XHamster Downloader](#why-xhamster-downloader)
