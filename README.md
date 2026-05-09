@@ -1,173 +1,86 @@
-# XHamster Downloader (Browser Extension)
+# XHamster Video Downloader
 
-> Download supported XHamster videos as MP4 files directly from watch pages in your browser.
+Want to download and save XHamster videos so you can watch them offline with no ads, no annoying popups, and curate a personal collection of your favorite vids?
 
-XHamster Downloader is a browser extension built for users who want a cleaner way to save supported XHamster videos for offline viewing. It detects the active media source on the page, surfaces available quality options when present, and exports the final file as MP4 without requiring manual stream extraction.
+👉 Get it Here: https://serp.ly/xhamster-video-downloader
 
-- Save supported XHamster videos from watch pages
-- Detect available quality variants exposed by the player
-- Export MP4 files for offline playback and archiving
-- Avoid manual source digging in page scripts
-- Keep the whole workflow browser-native
+## XHamster Video Downloader
 
-## Links
+XHamster Video Downloader is a simple browser-based tool for saving XHamster videos from a URL. It is built for people who want a cleaner, faster way to keep videos available for offline viewing without juggling sketchy popups, unreliable copy/paste tricks, or one-off screen recordings.
 
-- :rocket: Get it here: [XHamster Downloader](https://serp.ly/xhamster-video-downloader)
-- :new: Latest release: [GitHub Releases](https://github.com/serpapps/xhamster-video-downloader/releases/latest)
-- :question: Help center: [SERP Help](https://help.serp.co/en/)
-- :beetle: Report bugs: [GitHub Issues](https://github.com/serpapps/xhamster-video-downloader/issues)
-- :bulb: Request features: [Feature Requests](https://github.com/serpapps/xhamster-video-downloader/issues)
+Use it when you want a focused downloader experience for XHamster: paste a video link, detect the available media, and save the file in a format that works for your device and workflow.
 
-## Preview
+## Why use this downloader?
 
-![XHamster Downloader workflow preview](assets/workflow-preview.webp)
+- Save XHamster videos for offline viewing.
+- Avoid repeat visits, popups, and ad-heavy playback pages.
+- Keep a personal collection of favorite clips.
+- Use a browser-friendly workflow instead of complicated desktop software.
+- Download from URLs without manually hunting through page source.
+- Works well for recurring saves, research, archiving, and personal media organization.
 
-## Table of Contents
+## Key features
 
-- [Why XHamster Downloader](#why-xhamster-downloader)
-- [Features](#features)
-- [How It Works](#how-it-works)
-- [Step-by-Step Tutorial: How to Download Videos from XHamster](#step-by-step-tutorial-how-to-download-videos-from-xhamster)
-- [Supported Formats](#supported-formats)
-- [Who It's For](#who-its-for)
-- [Common Use Cases](#common-use-cases)
-- [Troubleshooting](#troubleshooting)
-- [Trial & Access](#trial--access)
-- [Installation Instructions](#installation-instructions)
-- [FAQ](#faq)
-- [License](#license)
-- [Notes](#notes)
-- [About XHamster](#about-xhamster)
+- XHamster video URL support.
+- Clean download workflow from a normal browser.
+- Helps find downloadable video files from supported pages.
+- Useful for saving videos before they disappear, get moved, or become harder to find.
+- Designed for non-technical users who just want a fast way to save a video.
+- Lightweight alternative to bulky video downloader apps.
+- Works as a practical XHamster video saver for everyday use.
 
-## Why XHamster Downloader
+## How to download XHamster videos
 
-XHamster video pages can expose multiple media variants and player states, which makes generic download tools noisy and unreliable. A loose scan can surface the wrong asset or fail once the page swaps between different delivery methods during playback.
+1. Copy the XHamster video URL you want to save.
+2. Open the downloader page.
+3. Paste the video URL into the downloader.
+4. Let the tool detect available media options.
+5. Choose the version you want and save it to your device.
 
-XHamster Downloader is built to simplify that workflow. Start the video, let the extension detect the supported stream, choose the quality you want, and export the result as MP4 from inside the browser.
+👉 Get it Here: https://serp.ly/xhamster-video-downloader
 
-## Features
+## Best for
 
-- Detects supported XHamster video sources from active watch pages
-- Multi-source video detection including initials, xplayer, HTML5 video, and CDN monitoring
-- Lists available quality variants when present
-- In-page download button built into the video player
-- Exports MP4 files for simpler offline viewing
-- Right-click context menu for quick downloads
-- Automatic saving into a dedicated XHAMSTER folder
-- Works on all xHamster domains and regional mirrors
-- Works on Chrome, Edge, Brave, Opera, Firefox, Whale, and Yandex
+- Offline watching.
+- Personal collections.
+- Saving favorite videos.
+- Archiving videos that may be removed later.
+- Avoiding repeated ad-heavy page loads.
+- Organizing clips by topic, creator, or collection.
+- Downloading from a URL instead of installing random software.
 
-## How It Works
+## XHamster downloader for desktop and mobile workflows
 
-1. Install the extension from the latest release.
-2. Open xHamster and visit a video page.
-3. Start playback so the extension can detect the stream.
-4. Open the popup or use the in-page download button.
-5. Choose the quality or stream option you want.
-6. Download the video as MP4.
-7. Save the final file locally.
+The downloader is designed around a simple URL-based workflow, so it fits naturally into desktop, laptop, and mobile browsing habits. Copy the link from your browser, paste it into the downloader, and save the result when a downloadable format is available.
 
-## Step-by-Step Tutorial: How to Download Videos from XHamster
+## Browser extension alternative
 
-1. Install XHamster Downloader from the latest GitHub release.
-2. Open xHamster and sign in if the page you want requires account access.
-3. Visit the video page you want to keep.
-4. Let the player load fully and press play.
-5. Click the in-page download button on the player, or open the extension popup.
-6. Review the quality options shown by the extension.
-7. Select the resolution you want if multiple options appear.
-8. Start the download and wait for the MP4 export to finish.
-9. Open the saved file from your Downloads folder.
-
-## Supported Formats
-
-- Input: supported XHamster video sources (HLS, direct MP4)
-- Output: MP4
-
-Saved files use MP4 so they are easier to replay on standard media players, move between devices, or archive locally.
-
-## Who It's For
-
-- XHamster viewers who want offline copies of supported videos
-- Users who prefer a browser extension over manual extraction
-- People archiving videos they already have access to in the browser
-- Users who want a simple MP4 download workflow
-- Anyone who needs downloads to work across xHamster mirror domains
-
-## Common Use Cases
-
-- Save an XHamster video for later viewing
-- Export the best available quality as MP4
-- Avoid manual source extraction from the player
-- Keep offline copies for personal playback
-- Download from xHamster mirror sites when the main domain is unavailable
-
-## Troubleshooting
-
-**The extension is not detecting the video**
-Start playback first and wait for the player to initialize the active source.
-
-**No quality selector appears**
-Some pages expose only one usable stream, so only one option may be available.
-
-**The detected source seems incomplete**
-Refresh the page and retry after playback starts again.
-
-**The download stopped partway through**
-Check whether your internet connection dropped during the download.
-
-**The page requires account or paid access**
-The extension only works on media you can already open and play in your active browser session.
-
-## Trial & Access
-
-- Includes **3 free downloads** so you can test the workflow first
-- Email sign-in uses secure one-time password verification
-- No credit card required for the trial
-- Unlimited downloads are available with a paid license
-
-Start here: [https://serp.ly/xhamster-video-downloader](https://serp.ly/xhamster-video-downloader)
-
-## Installation Instructions
-
-1. Open the latest release page: [GitHub Releases](https://github.com/serpapps/xhamster-video-downloader/releases/latest)
-2. Download the correct build for your browser.
-3. Install the extension.
-4. Open an XHamster watch page.
-5. Use the popup to detect and download the media.
+If you prefer a browser-based downloader flow instead of a heavy desktop app, this XHamster downloader gives you a lightweight option for saving videos directly from supported URLs.
 
 ## FAQ
 
-**Can I download XHamster videos as MP4?**
-Yes. Supported downloads are exported as MP4 files.
+### Can I download XHamster videos from a URL?
 
-**Do I need extra software?**
-No. The workflow stays inside the browser extension.
+Yes. Copy the XHamster video link and use the downloader page to check for downloadable media options.
 
-**Where are videos saved?**
-They are saved to your default Downloads location, typically inside an XHAMSTER subfolder.
+### Is this easier than using a screen recorder?
 
-**Does it work on xHamster mirror sites?**
-Yes. The extension supports xhamster.com and regional mirrors including xhamster.one, xhamster.desi, xhms.pro, and others.
+Yes. A downloader can save the original media when available, while screen recording is slower, lower quality, and requires you to replay the whole video.
 
-**What quality options are available?**
-The extension detects all available qualities from the source, typically multiple resolutions from 144p to 1080p or higher.
+### Can I save XHamster videos for offline viewing?
 
-**Will it work on every page?**
-It works on supported playback flows. Detection depends on how the active page exposes the media source.
+Yes, when the video is publicly accessible and a downloadable media file is available, you can save it for offline viewing.
 
-## License
+### Does this replace a desktop video downloader app?
 
-This repository is distributed under the proprietary SERP Apps license in the [LICENSE](LICENSE) file. Review that file before copying, modifying, or redistributing any part of this project.
+For many users, yes. A URL-based downloader is simpler than installing bulky software, especially for occasional saves and quick personal archiving.
 
-## Notes
+### What if a video does not download?
 
-- Only download content you own or have explicit permission to save
-- An internet connection is required for downloads
-- Must press play before the extension can detect the video stream
-- Quality depends on the media exposed by xHamster
-- xHamster has many mirror domains; try a different mirror if one is blocked
+Some videos may be private, removed, geo-restricted, protected, live-only, or served in a way that blocks direct downloads. Try another public video URL or check whether the page is accessible in your browser.
 
-## About XHamster
+## Start downloading XHamster videos
 
-XHamster is a large video platform with player-managed playback and multiple encodings on many watch pages. XHamster Downloader is built to make supported downloads easier for users who already have access to those videos in the browser.
+Use the XHamster Video Downloader to save videos from supported URLs and build your own offline collection.
+
+👉 Get it Here: https://serp.ly/xhamster-video-downloader
